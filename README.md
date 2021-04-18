@@ -1,1 +1,1 @@
-# DU-UX-UI
+# DU-UX-UI Bootcamp Repository
